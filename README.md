@@ -18,8 +18,8 @@ The dashboard provides deep insights into his batting career, showcasing trends,
 
 🛠️ Tools & Technologies
 
-Power BI (Dashboard & Visualization)
+• Power BI (Dashboard & Visualization)
 
-Power Query (Data Cleaning & Transformation)
+• Power Query (Data Cleaning & Transformation)
 
-Excel/CSV Data Source
+• Excel/CSV Data Source
